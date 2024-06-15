@@ -20,6 +20,7 @@ Upon installation configure the git on the local machine.
 Visit github.com and create an account.
 Create a new repository and use git to push the project into the new repository with the commands given by github.
 This is shown by the screenshoot github.png
+The sample project is: https://github.com/Error404notf/se-assignment-1-setting-up-your-developer-environment-Error404notf.git
 
  4.
 Visit Python offiicial site http://wwww.python.org
@@ -34,3 +35,39 @@ I have a screenshoot labelled package.png to show the python version on my local
  I ran the pip on the command prompt to show evidence of my pip package installed on my local package.
  pip.png shows the package version.
 
+ 6.
+ Go to https://dev.mysql.com/downloads/windows/installer/5.7.html
+ Select MySQL community edition, click to download on your local machine
+ Follow the on screen promps tp configure MySQL and enter your password.
+ Finish the installation.
+ Confirm by adding the software path into environment variables.
+ Run the command promopt the software specifications.
+ This is accompanied by the screenshoot labelled MySQL.png
+
+  8.
+  Explore the Vs Code by pressing Ctrl+Shift+X , navigate through various vs code extensions and install them to ease coding optimization.
+  My screenshoot will illustrate the various installed on my vs code labelled Code_Extensions.png
+
+
+   Here are the challenges I faced while setting up my development environment:
+
+Operating System Compatibility: Making sure all the tools I wanted to use, like Visual Studio Code, MySQL, and Python, would work properly on Windows 11 was tricky. Sometimes older software versions weren't fully supported, causing compatibility problems.
+
+Installing and Configuring Tools: Getting Git and  MySQL installed and set up correctly took a lot of effort. Each tool has its own setup process and needs specific configurations, which can lead to errors if not done carefully.
+
+Setting Up Version Control: Figuring out how to use Git and connect it to GitHub was a challenge. Understanding Git's commands and setting up repositories and branches properly was essential but a bit intimidating at first.
+
+Documenting and Troubleshooting: Creating a clear setup guide with step-by-step instructions and screenshots was important but time-consuming. When things didn't work as expected, like Python path issues or MySQL connection errors, I had to be patient and do thorough research to find solutions.
+
+
+   Here are the strategies I used to overcome these challenges:
+
+Research and Planning: Before starting, I researched what tools would work well together and checked installation guides. This helped me avoid problems before they happened.
+
+Taking It Step by Step: Instead of installing everything at once, I installed one tool at a time. This made it easier to find and fix problems without getting overwhelmed.
+
+Using Online Help: I looked at forums and official guides when I got stuck. Websites like GitHub and DockerHub had a lot of good tips and tools to help me out.
+
+Testing Everything: After setting up each tool, I tested it right away to make sure it was working. If something didn't work, I could fix it right then and there.
+
+Getting Advice from Others: Talking to friends and mentors who knew about setting up these tools was really helpful. They gave me good advice and different ways to solve problems.
