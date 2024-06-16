@@ -1,34 +1,34 @@
  1.
 Download the Windows Media Creation Tool from Microsoft.
-Install windows from the Microsoft site https://dev.mysql.com/downloads/windows/installer/5.7.html
+Install Windows from the Microsoft site https://dev.mysql.com/downloads/windows/installer/5.7.html
 insert the bootable USB into my laptop.
 Restarted the laptop by accessing the UEFI/BIOS setting by pressing the f12 repeatedly
-select boot priority and install windows 11 from there 
+selecting boot priority and installing Windows 11 from there 
 After you are done restart the laptop to apply the necessary changes.
-   I have accompanied an image for the windows 11 install under Windows11.png
+   I have accompanied an image for the Windows 11 install under Windows11.png
 
  2.
 Visited the Vs code site https://code.visualstudio.com/Download
-Downloaded the vs code to my system.
-Initialized the set up and finished the process
+Downloaded the VS code to my system.
+Initialized the setup and finished the process
 Then run the vs code from my desktop window.
-   Screenshot of the installed text editor is labelled Vscode.png 
+   The screenshot of the installed text editor is labeled Vscode.png 
 
  3.
 Visit git.com and install git.
 Upon installation configure the git on the local machine.
 Visit github.com and create an account.
-Create a new repository and use git to push the project into the new repository with the commands given by github.
-This is shown by the screenshoot github.png
+Create a new repository and use Git to push the project into the new repository with the commands given by Git Hub.
+The screenshot github.png shows this
 The sample project is: https://github.com/Error404notf/se-assignment-1-setting-up-your-developer-environment-Error404notf.git
 
  4.
-Visit Python offiicial site http://wwww.python.org
+Visit Python's official site http://wwww.python.org
 Download the programming language into your local machine.
-Start the configuration process, ensure you have selected add file to path
+Start the configuration process, ensure you have selected add the file to the path
 Choose the default options and then finish.
-Go to environment variables and add the software path to be recognised on the local machine.
-I have a screenshoot labelled package.png to show the python version on my local machine.![alt text](image.png)
+Go to environment variables and add the software path to be recognized on the local machine.
+I have a screenshot labeled package.png to show the Python version on my local machine.![alt text](image.png)
 
 
  5.
@@ -38,15 +38,15 @@ I have a screenshoot labelled package.png to show the python version on my local
  6.
  Go to https://dev.mysql.com/downloads/windows/installer/5.7.html
  Select MySQL community edition, click to download on your local machine
- Follow the on screen promps tp configure MySQL and enter your password.
+ Follow the on-screen prompts to configure MySQL and enter your password.
  Finish the installation.
  Confirm by adding the software path into environment variables.
- Run the command promopt the software specifications.
- This is accompanied by the screenshoot labelled MySQL.png
+ Run the command to prompt the software specifications.
+ This is accompanied by the screenshot labeled MySQL.png
 
   8.
-  Explore the Vs Code by pressing Ctrl+Shift+X , navigate through various vs code extensions and install them to ease coding optimization.
-  My screenshoot will illustrate the various installed on my vs code labelled Code_Extensions.png
+  Explore the Vs Code by pressing Ctrl+Shift+X, navigate through various VS code extensions, and install them to ease coding optimization.
+  My screenshot will illustrate the various installed on my vs code labeled Code_Extensions.png
 
 
    Here are the challenges I faced while setting up my development environment:
@@ -70,4 +70,4 @@ Using Online Help: I looked at forums and official guides when I got stuck. Webs
 
 Testing Everything: After setting up each tool, I tested it right away to make sure it was working. If something didn't work, I could fix it right then and there.
 
-Getting Advice from Others: Talking to friends and mentors who knew about setting up these tools was really helpful. They gave me good advice and different ways to solve problems.
+Getting Advice from Others: Talking to friends and mentors who knew about setting up these tools was helpful. They gave me good advice and different ways to solve problems.
